@@ -1,8 +1,8 @@
 ### Hi there, I'm Antony 👋
 
-<img src="https://raw.githubusercontent.com/Twon/Twon/master/images/octocat.png">
-
 I'm a software engineer who's passionate about contributing to and improving the open-source C++ ecosystem. I've worked in video games, hight performance computing, quantitative analytics, electronic trading and low-latency trading system.
+
+[![Antony's github stats](https://github-readme-stats.vercel.app/api?username=Twon&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Twon/Twon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
